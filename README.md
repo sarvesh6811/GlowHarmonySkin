@@ -1,7 +1,7 @@
 # GlowHarmonySkin
 
 ## Overview
-GlowHarmonySkin is an eCommerce website for skin care products. Users can browse products, manage their cart, and check out. Admins can manage products through an admin area.
+GlowHarmonySkin is an eCommerce website for skin care products. Users can browse products, manage their cart, and check out. 
 
 ## Tech Stack
 - **Frontend:** .NET Web MVC
