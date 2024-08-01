@@ -1,0 +1,72 @@
+@model IEnumerable<GlowHarmonySkin.Models.CartItemViewModel>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Cart</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Shopping Cart</h1>
+        @if (!Model.Any())
+        {
+            <div class="text-center">
+                <p>Your shopping cart is empty.</p>
+                <a href="/Products" class="btn btn-primary">Continue Shopping</a>
+            </div>
+        }
+        else
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Total</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td><img src="@item.Product.ImageUrl" alt="@item.Product.Name" class="img-thumbnail" style="width: 100px; height: auto;">
+                            <td>@item.Product.Name</td>
+                            <td>@item.Product.Description</td></td>
+                            <td>@item.Product.Name</td>
+                            <td>@item.Product.Description</td>
+                            <td>$@item.Product.Price</td>
+                            <td>@item.Quantity</td>
+                            <td>$@(item.Product.Price * item.Quantity)</td>
+                            <td>
+                                <form asp-action="RemoveFromCart" asp-controller="Cart" method="post" style="display:inline;">
+                                    <input type="hidden" name="id" value="@item.Product.ProductId" />
+                                    <button type="submit" class="btn btn-danger">Remove</button>
+                                </form>
+                                <form asp-action="AdjustQuantity" asp-controller="Cart" method="post" style="display:inline;">
+                                    <input type="hidden" name="id" value="@item.Product.ProductId" />
+                                    <input type="number" name="quantity" value="@item.Quantity" min="1" class="form-control" style="display:inline;width:60px;" />
+                                    <button type="submit" class="btn btn-primary">Update</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="4" class="text-right"><strong>Total:</strong></td>
+                        <td colspan="2">$@Model.Sum(item => item.Product.Price * item.Quantity)</td>
+                    </tr>
+                </tfoot>
+            </table>
+            <div class="text-right">
+                <a href="/Products" class="btn btn-primary">Continue Shopping</a>
+            </div>
+        }
+    </div>
+</body>
+</html>

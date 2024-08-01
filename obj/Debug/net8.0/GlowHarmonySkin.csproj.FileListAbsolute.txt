@@ -1,0 +1,181 @@
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/appsettings.Development.json
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/appsettings.json
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/GlowHarmonySkin.staticwebassets.runtime.json
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/GlowHarmonySkin
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/GlowHarmonySkin.deps.json
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/GlowHarmonySkin.runtimeconfig.json
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/GlowHarmonySkin.pdb
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/DnsClient.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/SharpCompress.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/Snappier.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/ZstdSharp.dll
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/sarveshpatel/GlowHarmonySkin/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.csproj.AssemblyReference.cache
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.AssemblyInfoInputs.cache
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.AssemblyInfo.cs
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.csproj.CoreCompileInputs.cache
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.MvcApplicationPartsAssemblyInfo.cache
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.RazorAssemblyInfo.cache
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.RazorAssemblyInfo.cs
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/staticwebassets/msbuild.GlowHarmonySkin.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/staticwebassets/msbuild.build.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/scopedcss/bundle/GlowHarmonySkin.styles.css
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/scopedcss/projectbundle/GlowHarmonySkin.bundle.scp.css
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarm.8A9DE22B.Up2Date
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/refint/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.pdb
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/GlowHarmonySkin.genruntimeconfig.cache
+/Users/sarveshpatel/GlowHarmonySkin/obj/Debug/net8.0/ref/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/appsettings.Development.json
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/appsettings.json
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/GlowHarmonySkin.staticwebassets.runtime.json
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/GlowHarmonySkin
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/GlowHarmonySkin.deps.json
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/GlowHarmonySkin.runtimeconfig.json
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/GlowHarmonySkin.pdb
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/DnsClient.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/SharpCompress.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/Snappier.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/ZstdSharp.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/sarveshpatel/GlowHarmonySkin 2/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.csproj.AssemblyReference.cache
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.AssemblyInfoInputs.cache
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.AssemblyInfo.cs
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.csproj.CoreCompileInputs.cache
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.MvcApplicationPartsAssemblyInfo.cache
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.RazorAssemblyInfo.cache
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.RazorAssemblyInfo.cs
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/staticwebassets/msbuild.GlowHarmonySkin.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/staticwebassets/msbuild.build.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/scopedcss/bundle/GlowHarmonySkin.styles.css
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/scopedcss/projectbundle/GlowHarmonySkin.bundle.scp.css
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarm.8A9DE22B.Up2Date
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/refint/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.pdb
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/GlowHarmonySkin.genruntimeconfig.cache
+/Users/sarveshpatel/GlowHarmonySkin 2/obj/Debug/net8.0/ref/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/appsettings.Development.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/appsettings.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/GlowHarmonySkin.staticwebassets.runtime.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/GlowHarmonySkin
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/GlowHarmonySkin.deps.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/GlowHarmonySkin.runtimeconfig.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/GlowHarmonySkin.pdb
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/DnsClient.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/SharpCompress.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/Snappier.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/ZstdSharp.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/sarveshpatel/GlowHarmonySkin 2 3/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.csproj.AssemblyReference.cache
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.AssemblyInfoInputs.cache
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.AssemblyInfo.cs
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.csproj.CoreCompileInputs.cache
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.MvcApplicationPartsAssemblyInfo.cache
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.RazorAssemblyInfo.cache
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.RazorAssemblyInfo.cs
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/staticwebassets/msbuild.GlowHarmonySkin.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/staticwebassets/msbuild.build.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GlowHarmonySkin.props
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/scopedcss/bundle/GlowHarmonySkin.styles.css
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/scopedcss/projectbundle/GlowHarmonySkin.bundle.scp.css
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarm.8A9DE22B.Up2Date
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/refint/GlowHarmonySkin.dll
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.pdb
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/GlowHarmonySkin.genruntimeconfig.cache
+/Users/sarveshpatel/GlowHarmonySkin 2 3/obj/Debug/net8.0/ref/GlowHarmonySkin.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\appsettings.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\GlowHarmonySkin.staticwebassets.runtime.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\GlowHarmonySkin.exe
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\GlowHarmonySkin.deps.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\GlowHarmonySkin.runtimeconfig.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\GlowHarmonySkin.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\GlowHarmonySkin.pdb
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\DnsClient.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\Snappier.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.csproj.AssemblyReference.cache
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.AssemblyInfoInputs.cache
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.AssemblyInfo.cs
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.csproj.CoreCompileInputs.cache
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.RazorAssemblyInfo.cache
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.RazorAssemblyInfo.cs
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.sourcelink.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\staticwebassets\msbuild.GlowHarmonySkin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\staticwebassets\msbuild.build.GlowHarmonySkin.props
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GlowHarmonySkin.props
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GlowHarmonySkin.props
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\scopedcss\bundle\GlowHarmonySkin.styles.css
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\scopedcss\projectbundle\GlowHarmonySkin.bundle.scp.css
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarm.8A9DE22B.Up2Date
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\refint\GlowHarmonySkin.dll
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.pdb
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\GlowHarmonySkin.genruntimeconfig.cache
+C:\Users\yashp\Downloads\GlowHarmonySkin 2 3 5\GlowHarmonySkin 2 3\obj\Debug\net8.0\ref\GlowHarmonySkin.dll
