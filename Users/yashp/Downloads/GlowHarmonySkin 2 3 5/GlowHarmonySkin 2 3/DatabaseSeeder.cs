@@ -9,7 +9,7 @@ namespace GlowHarmonySkin
         {
             var products = GetSeededProducts();
 
-            // Print or store the data as needed
+            // Print or store the data as need
             foreach (var product in products)
             {
                 System.Console.WriteLine($"Product: {product.Name}, Description: {product.Description}, Price: {product.Price}");
