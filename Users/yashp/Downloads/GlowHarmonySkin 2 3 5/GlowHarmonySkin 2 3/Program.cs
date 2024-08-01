@@ -10,7 +10,7 @@ namespace GlowHarmonySkin
         {
             CreateHostBuilder(args).Build().Run();
 
-            // Call the Seed method
+            
             DatabaseSeeder.Seed();
         }
 
