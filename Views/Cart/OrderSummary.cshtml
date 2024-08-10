@@ -1,0 +1,70 @@
+@model GlowHarmonySkin.Models.OrderSummaryViewModel
+@{
+    ViewData["Title"] = "Order Summary";
+    var totalPrice = Model.CartItems.Sum(i => i.Quantity * i.Product.Price);
+    var tax = totalPrice * 0.13M; // Calculate 13% tax
+    var finalCost = totalPrice + tax; // Calculate final cost
+}
+<div class="container mt-5">
+    <h2>Order Summary</h2>
+
+    <div class="card mb-3">
+        <div class="card-header">
+            <h3>User Information</h3>
+        </div>
+        <div class="card-body">
+            <p><strong>Name:</strong> @Model.UserInformation.Name</p>
+            <p><strong>Email:</strong> @Model.UserInformation.Email</p>
+            <p><strong>Address:</strong> @Model.UserInformation.Address</p>
+            <p><strong>Phone Number:</strong> @Model.UserInformation.PhoneNumber</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header">
+            <h3>Cart Items</h3>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Product</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <tr>
+                            <td>@item.Product.Name</td>
+                            <td>@item.Quantity</td>
+                            <td>@string.Format("{0:C}", item.Product.Price)</td>
+                            <td>@string.Format("{0:C}", item.Quantity * item.Product.Price)</td>
+                        </tr>
+                    }
+                    <tr>
+                        <td colspan="3" class="text-right"><strong>Subtotal:</strong></td>
+                        <td>@string.Format("{0:C}", totalPrice)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="text-right"><strong>Tax (13%):</strong></td>
+                        <td>@string.Format("{0:C}", tax)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="text-right"><strong>Final Cost:</strong></td>
+                        <td>@string.Format("{0:C}", finalCost)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="text-right mt-3">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Continue Shopping</a>
+        <form asp-action="PlaceOrder" method="post" class="d-inline">
+            <button type="submit" class="btn btn-success ml-2">Place an Order</button>
+        </form>
+    </div>
+</div>

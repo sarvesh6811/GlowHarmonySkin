@@ -1,0 +1,45 @@
+
+body {
+  background-image: url("/images/homebackground.jpg"); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.jumbotron {
+  background-image: url("/images/.jpg"); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  color: rgb(19, 18, 18);
+  padding: 2rem; 
+  
+}
+
+
+.container {
+  margin-top: 20px;
+}
+.navbar {
+  margin-bottom: 20px;
+}
+
+header nav {
+  margin-bottom: 10px;
+}
+
+header nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+.homeimg {
+  background-image: url("/images/bgimage1.jpeg"); 
+
+}
